@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.content{
+    position: absolute;
+    top: 10%;
+    right: 50%;
+    transform: translate(50%, 50%);
+}
